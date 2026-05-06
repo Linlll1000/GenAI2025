@@ -17,7 +17,7 @@
 
 # ML2025 專案設定
 ## 專案背景
-這是 NTU ML 2021 Spring（李宏毅老師）的機器學習課程作業。
+這是 NTU ML 2025（李宏毅老師）的機器學習課程作業。
 ## 技術環境
 - 程式碼在 Google Colab 上執行（不是本機），Colab 已預裝 PyTorch
 - 本機只用 VS Code 寫 code，不需要在本機跑 Python
